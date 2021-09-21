@@ -1,0 +1,10 @@
+.country {
+    background-color: papayawhip;
+    padding: 5px;
+    border: 1px solid bisque;
+    border-radius: 15px;
+}
+
+.country img {
+    width: 200px;
+}
